@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace LibApp.Profiles
 {
-    public class CustomerProfile : Profile
+    public class CustomerProfile : Profile 
     {
         public CustomerProfile()
         {
